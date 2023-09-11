@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "3f504f203debed33",
+    "type": "split",
+    "children": [
+      {
+        "id": "581cdc36615d93e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a4d061e10539300",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Semester/Project/Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37e26024cecc9401",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f331e14d95f553",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70dfc5eecdfc6775",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3e6f8875c39a2171",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#pact",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ef66267a2c09cc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "d59c8d4c00696c34",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fa2619bc8d9ef7ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "0059b622390b47e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c045000dc0bcade",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3. Semester/Project/Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "05aa155417192732",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3. Semester/Project/Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f607bac374f7773d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0dff4b2698436da2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3. Semester/Project/Notes.md"
+              }
+            }
+          },
+          {
+            "id": "3b274ca0ccf7413e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "2a4d061e10539300",
+  "lastOpenFiles": [
+    "3. Semester/DEB/3. Envisionment.md",
+    "3. Semester/DEB/2. Understanding and Data Collection Techniques.md",
+    "3. Semester/Project/Notes.md",
+    "3. Semester/Project/Automatisk ladestander.md",
+    "3. Semester/SU-SAD/2. Exercies.md",
+    "3. Semester/SU-SAD/2. Classes.md",
+    "3. Semester/SU-SAD/1. Introduction and System Choice.md",
+    "3. Semester/SU-SAD/3. Structure.md",
+    "3. Semester/SU-SAD/attachments/Pasted image 20230911094812.png",
+    "3. Semester/SU-SAD/attachments/Pasted image 20230911083311.png",
+    "3. Semester/SU-SAD/attachments/Pasted image 20230911082150.png",
+    "3. Semester/DEB/attachments/Pasted image 20230909214853.png",
+    "3. Semester/DEB/attachments/Pasted image 20230909214817.png",
+    "3. Semester/DEB/attachments/Pasted image 20230909214238.png",
+    "3. Semester/DEB/attachments/Pasted image 20230909213539.png",
+    "3. Semester/DEB/attachments/Pasted image 20230909211507.png",
+    "3. Semester/DEB/1. Introduction and overview of the course.md",
+    "3. Semester/DEB/attachments/Pasted image 20230909175621.png",
+    "3. Semester/DEB/attachments/Pasted image 20230909175352.png",
+    "3. Semester/OOP/3. Classes II.md",
+    "3. Semester/Project",
+    "3. Semester/OOP/0. CLI.md",
+    "3. Semester/OOP/2. Classes I.md",
+    "3. Semester/SU-SAD/1. Exercises.md",
+    "3. Semester/OOP/1. Introduction.md",
+    "3. Semester/OOP/attachments",
+    "3. Semester/SU-SAD/1. Lecture.md",
+    "3. Semester/SU-SAD/1. Responsibility.md",
+    "3. Semester/DEB/attachments",
+    "3. Semester/DEB",
+    "Untitled.canvas",
+    "3. Semester/SU-SAD/huinbkj.md",
+    "3. Semester/SU-SAD/attachments",
+    "3. Semester/efdg.md",
+    "3. Semester/SU-SAD/1.md",
+    "3. Semester/OOP",
+    "3. Semester/SU-SAD",
+    "Untitled.md",
+    "3. Semester"
+  ]
+}
