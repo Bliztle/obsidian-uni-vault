@@ -21,3 +21,6 @@
 	- Rapport samles først til sidst, som konklusion af processer
 - Refleksion i rapport
 	- Afsnit til sidst
+
+Vejleder rapport-sprog
+Vejleder - Web og OOP
