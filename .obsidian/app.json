@@ -1,5 +1,6 @@
 {
   "newFileLocation": "current",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./attachments",
+  "vimMode": true
 }
