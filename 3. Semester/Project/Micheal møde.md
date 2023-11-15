@@ -3,8 +3,6 @@ bibliotek skal udvides med CRUD
 - 3 stafing
 - noget master
 
-
-
 v
  - 0.1 se variabler
  - 0.2 Rette

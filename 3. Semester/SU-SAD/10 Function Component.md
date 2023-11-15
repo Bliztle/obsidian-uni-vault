@@ -71,8 +71,12 @@ Example for "Control Interest calculation" function
 
 #### Strategy
 Defining most common parts of an operation in `Strategy`, but concrete parts which may depend on context state in `ConcreteStrategyX`, changing concrete strategy as needed
+
+> It's just interfaces or abstract functions
+
 ![](Pasted%20image%2020230928131302.png)
 
+Fx writing account "udtog" in different ways according to account. It is abstract methods, which wasn't included in the part about abstract classes.
 ####  Active Function
 Active functions (see #signal), may live in an "active function component", interacting with the model on its own
 ![](Pasted%20image%2020230928131627.png)
