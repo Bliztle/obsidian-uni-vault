@@ -1,1 +1,21 @@
-{}
+{
+  "editor:delete-paragraph": [],
+  "editor:table-col-copy": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:table-row-copy": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
+}
