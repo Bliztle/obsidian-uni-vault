@@ -1,0 +1,15 @@
+- (un)signed repræsentation
+	- TJEK ANTAL 0'ER SKREVET
+	- overflow i positiv retning -> fra høj værdi til lav
+	- overflow i negativ retning -> fra lav til høj
+		- `-TMin` overflower i negativ retning til `TMIN`
+	- blandet beregnes som unsigned
+		- Bit repræsentation bruges unsigned
+- Assembly og program-trace
+	- Sæt overskydende felter "UK" (ukendt) i traces
+	- Rækken efter RET skal stadig have værdier
+		- Værdier er kendt, bare ikke instruktion
+		- Dermed er værdier på rækken derefter heller ikke kendt
+		- ![](Pasted%20image%2020240528124218.png)
+- BRUG KORREKTE DATATYPER
+	- STÅR DER LONG SÅ BRUG LONG
