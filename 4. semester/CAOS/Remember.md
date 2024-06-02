@@ -7,7 +7,8 @@
 		- Bit repræsentation bruges unsigned
 - Parallelitet
 	- Tæl cykluser: Husk at pipeline ordentligt
-		- 16 tal ganget sammen kræver ikke 8+6+5+5=24 cykluser, da nogle af stykkerne i anden omgang kan pipelines lige efter første ![](image%201.png)
+		- 16 tal ganget sammen kræver ikke 8+6+5+5=24 cykluser, da nogle af stykkerne i anden omgang kan pipelines lige efter første 
+		- ![](image%201.png)
 - Assembly og program-trace
 	- Argumenter er caller-saved
 	- Sæt overskydende felter "UK" (ukendt) i traces
@@ -17,3 +18,5 @@
 		- ![](Pasted%20image%2020240528124218.png)
 - BRUG KORREKTE DATATYPER
 	- STÅR DER LONG SÅ BRUG LONG
+- Parallelism
+	- signal before unlocking
