@@ -1,0 +1,6 @@
+- Gather all sources of CFG ambiguity in 1 place
+- Check why this is wrong? Quiz 10
+	- ![](Pasted%20image%2020240606100134.png)
+- Read more first follow nullable and accompanying set equations for recursive productions
+	- Especially follow
+- Formals of evaluating expressions with different scopes in SPO
