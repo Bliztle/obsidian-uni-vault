@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240424095344.png","text":"2.2) (særlig vigtig)Add a lock per account and lock them such that the bank does not have race- conditions: transfer(int \" from, mutex \"from lock, int \" to, mutex\"to lock, int amount){","libVersion":"0.3.2","langs":"dan+eng"}

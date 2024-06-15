@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240306104248.png","text":"Practice Problem 3.34 (solution page 376) Consider a function P, which generates local values, named a0—a8. It then calls function Q using these generated values as arguments. Gcc produces the following code for the first part of P:","libVersion":"0.3.2","langs":"dan+eng"}

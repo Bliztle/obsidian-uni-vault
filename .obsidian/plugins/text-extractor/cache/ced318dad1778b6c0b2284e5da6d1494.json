@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240430203730.png","text":"1 semt m; 2 sem init(&m, 0, X); // init to X; what should X be? s sem wait(&m); s // critical section here s sem_post (&m) ; Figure 31.3: A Binary Semaphore (That Is, A Lock)","libVersion":"0.3.2","langs":"dan+eng"}

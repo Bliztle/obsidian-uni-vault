@@ -1,0 +1,1 @@
+{"path":"4. semester/SS/attachments/Pasted image 20240612164543.png","text":"e var Int z := z + 1;var Int y := z; skip is O ill-typed because x is undeclared @ ill-typed because an undeclared variable is used in an assignment O well-typed .","libVersion":"0.3.2","langs":"dan+eng"}

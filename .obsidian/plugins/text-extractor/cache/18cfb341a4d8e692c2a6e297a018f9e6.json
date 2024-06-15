@@ -1,0 +1,1 @@
+{"path":"4. semester/SS/attachments/Pasted image 20240418105151.png","text":"Exercise 2 Let S = var Int x := 1; if x < 1 then x := true else x := x + 1. Prove that the statement S does not result in any execution error (i.e., show that it is not the case that Ø+ (S, Ø) +!) and that, at the same time, it is ill-typed.","libVersion":"0.3.2","langs":"dan+eng"}

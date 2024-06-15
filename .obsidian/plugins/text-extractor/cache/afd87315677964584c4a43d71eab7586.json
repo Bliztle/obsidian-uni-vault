@@ -1,0 +1,1 @@
+{"path":"4. semester/SPO/attachments/Pasted image 20240423232911.png","text":"Two factorial functions Here is the usual factorial function in Haskell. fæ0=1 facn = n x (fac (n—1)) And here is a tail-recursive version that we can get. fac' n = facace (n,1) where facace (0,acc) = acc facace (n,acc) = facace(n—1,acc + n)","libVersion":"0.3.2","langs":"dan+eng"}

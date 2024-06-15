@@ -1,0 +1,1 @@
+{"path":"4. semester/SS/attachments/Pasted image 20240423100900.png","text":"Exercise 1 Consider the Bims statements below S)=x:=0; while (x > 0) dox:=x+1 Sy=x:=3; y:=4; while (x < y) do (x:=2%x; y := 34 y) and check whether they are semantically equivalent in the big-step semantics, that is S) - Sy Motivate your answer","libVersion":"0.3.2","langs":"dan+eng"}

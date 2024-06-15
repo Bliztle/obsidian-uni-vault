@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240313100253.png","text":"Practice Problem 4.7 (solution page 520) Let us determine the behavior of the instruction pushq %rsp for an x86-64 pro- cessor. We could try reading the Intel documentation on this instruction, but a","libVersion":"0.3.2","langs":"dan+eng"}

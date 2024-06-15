@@ -1,0 +1,1 @@
+{"path":"4. semester/SS/attachments/Pasted image 20240312082502.png","text":"Definition A context-free grammar G = (V, X, R, S) is in Chomsky normal form if every rule is of one of the following two forms: A= BC A=a S—e where a € X is any terminal symbol; A, B, C € V are any variables -except that B and C may bot be the start variable.","libVersion":"0.3.2","langs":"dan+eng"}

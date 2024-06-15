@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240228103957.png","text":"movq %rdi, 4rbx imulq — %rsi, 4rbx movq %rdi, 4rdx orq %4rsi, 4rdx cmpq %rsi, krdi cmovge %rdx, %rbx ret .L2: idivq %rsi, %rdi cmpq $10, 4rsi cmovge %rdi, 4rbx ret Fill in the missing expressions in the C code.","libVersion":"0.3.2","langs":"dan+eng"}

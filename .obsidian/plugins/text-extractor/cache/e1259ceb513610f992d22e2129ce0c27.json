@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240219200946.png","text":"Instruction— Effect Description pushq S R[irsp] — R[trsp|—8& Pushquad word MR[%rsp]] — S popq D D — MIR[%rsplk: Pop quad word Rl%rsp] — R[trsp]+8","libVersion":"0.3.2","langs":"dan+eng"}

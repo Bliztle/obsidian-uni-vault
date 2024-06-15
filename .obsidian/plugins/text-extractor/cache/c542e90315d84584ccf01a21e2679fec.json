@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240416193224.png","text":"CPU chip PTE | i FE PTE i i 4 | Y | VA i PA | PA | P. 4 i i å Data cache Figure 9.14 Integrating VM with a physically addressed cache. VA: virtual address. PTEA: page table entry address. PTE: page table entry. PA: physical address.","libVersion":"0.3.2","langs":"dan+eng"}

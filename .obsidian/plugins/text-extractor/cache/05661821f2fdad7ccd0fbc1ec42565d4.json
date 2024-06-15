@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240530132300.png","text":"Practice Problem 2.7 (solution page 181) What would be printed as a result of the following call to show. bytes? const char *m = \"mnopqr\"; shov_bytes((byte_pointer) m, strlen(m)); Note that letters 'a through 'z' have ASCII codes 0x61 through 0x7A.","libVersion":"0.3.2","langs":"dan+eng"}

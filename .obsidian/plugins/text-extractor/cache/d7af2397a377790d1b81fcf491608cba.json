@@ -1,0 +1,1 @@
+{"path":"4. semester/SS/attachments/Pasted image 20240410232123.png","text":"Definition 3.2 A transition system is a triple (T, —, T) where I is a set of configurations, — is the transition relation, which is a subset of T x T, and T CT is a set of terminal configurations.","libVersion":"0.3.2","langs":"dan+eng"}

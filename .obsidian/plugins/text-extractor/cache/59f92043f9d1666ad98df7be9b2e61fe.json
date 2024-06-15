@@ -1,0 +1,1 @@
+{"path":"4. semester/SPO/attachments/Pasted image 20240306205935.png","text":"E — numE, {$2->hole = NumExp($1): $0 = $2.tree) E.— +nmumE, ($0.hole = makeHole (); $3->hole = PlusExp($0.hole,NumExp ($2)); $0.tree = $3.tree) E, — ($0.hole = makeHole(); $0.tree = $0.hole} ;","libVersion":"0.3.2","langs":"dan+eng"}

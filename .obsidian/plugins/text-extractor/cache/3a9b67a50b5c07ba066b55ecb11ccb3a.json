@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240410114435.png","text":"7 printf (\"0\"); fflush(stdout); s waitpid(-1, NULL, 0); o > 0 printf(\"3\"); fflush(stdout); \" printf(\"6\"); exit(0); v ) e codeeiglobal-waitprob0e","libVersion":"0.3.2","langs":"dan+eng"}

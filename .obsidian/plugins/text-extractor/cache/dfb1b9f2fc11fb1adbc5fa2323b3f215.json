@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240313103332.png","text":"Practice Problem 4.15 (solution page 522) What would be the effect of the instruction pushq %rsp according to the steps listed in Figure 4.20? Does this conform to the desired behavior for Y86-64, as determined in Problem 4.7?","libVersion":"0.3.2","langs":"dan+eng"}

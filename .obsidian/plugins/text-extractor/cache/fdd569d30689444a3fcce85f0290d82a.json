@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240219200723.png","text":"Instruction Effect Description MoV S.D D<-S Move movb Move byte novw Move word movl Move double word movq Move quad word movabsq /.R R < I _ Moveabsolute quad word","libVersion":"0.3.2","langs":"dan+eng"}

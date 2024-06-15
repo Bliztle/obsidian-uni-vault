@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240312164328.png","text":"Value Name Meaning 1 AOK Normal operation 2 HLT halt instruction encountered 3 ADR — Invalid address encountered 4 INS — Invalid instruction encountered Figure 4.5 Y86-64 status codes. In our design, the processor halts for any code other than AOK.","libVersion":"0.3.2","langs":"dan+eng"}

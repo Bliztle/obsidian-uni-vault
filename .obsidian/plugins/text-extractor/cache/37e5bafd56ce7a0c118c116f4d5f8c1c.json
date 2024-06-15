@@ -1,0 +1,1 @@
+{"path":"4. semester/SPO/attachments/Pasted image 20240227232246.png","text":"Nullable(T) = Nullable(R) v Nullable(aT c) = Nullable(R) V (Nullable(a) A Nullable(T) A Nullable(c)) = Nullable(R) V (false A Nullable(T) A false) = Nullable(R) Nullable(R) = Nullable() V Nullable(DR) = true V (Nullable(>) N Nullable(R)) = true","libVersion":"0.3.2","langs":"dan+eng"}

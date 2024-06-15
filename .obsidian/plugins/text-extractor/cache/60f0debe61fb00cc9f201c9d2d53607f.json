@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240409173331.png","text":"Figure 8.14 i Anatomy of a process Time Process A i Process B context switch. v — H ser code read o i Context — Kernel code } oniteh ] User code Disk interrupt ---» i Context Boun + i Kemel code | suitch from read + ! User code","libVersion":"0.3.2","langs":"dan+eng"}

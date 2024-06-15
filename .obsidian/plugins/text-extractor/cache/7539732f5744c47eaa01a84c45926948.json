@@ -1,0 +1,1 @@
+{"path":"4. semester/SPO/attachments/Pasted image 20240418074843.png","text":"k:=0 in(0,7) := Ø for all out(0,7) := Ø for all i repeat for i := n downto 1 do out(k + 1,1) := Ujesucc(i) in(k,7) in(Æ + 1,4) := gen(i) U (out(k + 1,4) N kill(7)) k:=k+1 : in(k +1,1) = in(k, 1) u { out(k + L, i) = out(k, )","libVersion":"0.3.2","langs":"dan+eng"}

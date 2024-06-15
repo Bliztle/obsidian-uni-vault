@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240319183900.png","text":"1 /+ Inplenentation with maximum use of data abstraction +/ 2 void combinei(vec.ptr v, data t +dest) 5o 4 long 1; 5 5 xdest = IDENT; 7 for (1 = 0; i < vec.length(v); 144 { s data_t val; o get_vec_element(v, 1, &val); 10 *dest = sdest OP val; \" 3 )","libVersion":"0.3.2","langs":"dan+eng"}

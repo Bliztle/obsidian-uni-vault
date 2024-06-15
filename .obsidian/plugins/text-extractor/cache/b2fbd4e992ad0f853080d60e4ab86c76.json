@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240409171056.png","text":"Exception number— Description Exception class 0 Divide error Fault 13 General protection fault Fault 14 Page fault Fault 18 Machine check Abort 32-255 OS-defined exceptions Interrupt or trap Figure 8.9 Examples of exceptions in x86-64 systems.","libVersion":"0.3.2","langs":"dan+eng"}

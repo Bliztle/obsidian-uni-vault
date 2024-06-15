@@ -1,0 +1,1 @@
+{"path":"4. semester/SS/attachments/Pasted image 20240416105925.png","text":"Exercise 2 Prove that § = uhile -(2 < (1+ 1)) do (if x < x then x := 2 else skip) loops forever in the small-step semantics. (Hint: Try show that there exists k > 0 such that for any state s € States, (S, s) =\" (S, s)).","libVersion":"0.3.2","langs":"dan+eng"}

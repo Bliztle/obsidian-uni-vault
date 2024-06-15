@@ -1,0 +1,1 @@
+{"path":"4. semester/SS/attachments/Pasted image 20240418100618.png","text":"Exercise 1% Are the following statements well-typed? If so, prove it. 1. var Int x := 2; var Int y := x + 1; skip 2. var Int x := 2; var Int x := 3; skip 3. var Bool x := false; while -x do skip 4. if x then x := -x else skip 5. var Int x := x + 1; skip","libVersion":"0.3.2","langs":"dan+eng"}

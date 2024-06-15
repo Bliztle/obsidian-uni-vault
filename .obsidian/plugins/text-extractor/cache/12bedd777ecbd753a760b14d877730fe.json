@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240312164040.png","text":"Operations Branches Moves Figure 4.3 Function codes for Y86-64 instruction set. The code specifies a particular integer operation, branch condition, or data transfer condition. These instructions are shown as OPq, jXX, and cmovXX in Figure 4.2.","libVersion":"0.3.2","langs":"dan+eng"}

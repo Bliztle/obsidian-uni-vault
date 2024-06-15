@@ -1,0 +1,1 @@
+{"path":"4. semester/SPO/attachments/Pasted image 20240608151707.png","text":"A more general approach What if we have multiple left-recursive rules? XX| |Xanm | Bi| ... | Pn Now we have a collection of rules that first choose a 3 and then use right-recursion to build the a's (or none at all). X2BX'|- BK XomX'|[-|amX'|e","libVersion":"0.3.2","langs":"dan+eng"}

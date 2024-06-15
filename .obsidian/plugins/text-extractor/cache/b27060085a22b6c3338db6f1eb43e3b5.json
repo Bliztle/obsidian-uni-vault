@@ -1,0 +1,1 @@
+{"path":"4. semester/CAOS/attachments/Pasted image 20240306102726.png","text":"Instruction State values (at beginning) Label PC Instruction %rdi 4rsi hrax hrsp +4rsp Description M1 0x400560 callq 10 — — Ox7fffffffe820 — Call first(10) F1 e e e e e F2 e e e e e F3 e e e e e L1 e e e e e L2 e e e e e L3 e e e e e F4 e e e e e M2 e e e e e","libVersion":"0.3.2","langs":"dan+eng"}
