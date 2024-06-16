@@ -6,3 +6,9 @@
 ## Quiz June 23
 ![](Pasted%20image%2020240612171650.png)
 Why are these two not recognised? Surely if all strings in the language accepts then it is recognised, even if the PDA also recognises more than those strings?
+
+
+- Check formatting of aug24 in firefox if it is better
+- Also if equations load better
+
+- Check if there is an order of operations to $x+x\leq2*y$ as q10 in aug24 assumes so, but i do not believe it is the case

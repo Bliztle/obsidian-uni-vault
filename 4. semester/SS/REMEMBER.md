@@ -2,6 +2,12 @@
 	- **RECOGNISE / GENERATE MEANS 100% MATCH**
 - According to 
 - Check ill-typed vs ill-formed
+	- $\mathbf{true}, \mathbf{false}$ are assumed by exercises in aug24 to exist
+
+Regular languages
+- Intersecting with a nonregular language can still produce a regular language
+	- $\{a^{n}b^{n}\mid n\geq0\}\cap\{(ab)^{n}\mid n\geq0\}=\{ab\}$
+- When vibing, try automaton as well
 
 Pumping lemma
 - Try obvious strings in relation to p to check demon stuff
