@@ -2,6 +2,7 @@
 	- When more than 1 derivation tree exists
 	- Left-recursion or common prefix are likely not sources of ambiguity, but rather just sources where LL(1) parsing cannot see enough information
 - Check why this is wrong? Quiz 10
+	- **a** might be declared in an outer scope
 	- ![](Pasted%20image%2020240606100134.png)
 - Read more first follow nullable and accompanying set equations for recursive productions
 	- Especially follow
